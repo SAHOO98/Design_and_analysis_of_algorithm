@@ -1,4 +1,3 @@
-
 def is_Valid(x):
 	if x==1 or x==2:
 		return True
